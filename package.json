@@ -23,7 +23,7 @@
     "express-rate-limit": "^7.2.0",
     "express-session": "^1.18.1",
     "express-validator": "^7.2.0",
-    "gill": "^0.8.2",
+    "gill": "^0.11.0",
     "hbs": "^4.2.0",
     "mailgen": "^2.0.28",
     "mongodb": "^6.5.0",
